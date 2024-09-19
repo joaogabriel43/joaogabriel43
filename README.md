@@ -1,16 +1,34 @@
-## Hi there 👋
+## Oi, sou o João Gabriel 👋
 
-<!--
-**joaogabriel43/joaogabriel43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Sou desenvolvedor Back-End com experiência em Java, C#, Angular e SQL.
+- ✔️ Tenho uma sólida base em desenvolvimento de sistemas e manipulação de dados, com foco em evolução contínua.
+- 📚 Formado em cursos especializados, como a formação em C# pela Alura, além de estar em andamento no curso de Sistemas de Informação pela Unisinos.
+- 🔧 Experiência prática em Help Desk e desenvolvimento de sistemas no Exército Brasileiro e atualmente na Intermídia, onde atuo no sistema MobiliVendas.
+- 🌟 Sou autodidata, comunicativo e sempre busco novas oportunidades para crescer e aprimorar minhas habilidades.
+- Aperfeiçoando-me em front-end.
 
-Here are some ideas to get you started:
+## Sobre Mim
+  
+<div>
+  Sou Desenvolvedor Back-End, apaixonado por tecnologia e sempre buscando aprender e evoluir. Tenho experiência em Java, C#, Angular e SQL, com foco em criar soluções eficientes e escaláveis. Atualmente, trabalho no desenvolvimento e sustentação de sistemas na Intermídia, onde manipulo grandes volumes de dados e aprimoro minhas habilidades em desenvolvimento.
+  Sou autodidata, proativo e gosto de colaborar em equipes para encontrar soluções criativas para os desafios. No meu tempo livre, continuo estudando novas tecnologias e aplicando meus conhecimentos em projetos pessoais.
+<div/> <br>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabriel43&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel43&hide_progress=false&theme=tokyonight&layout=compact&locale=pt-br"/>
+</div> <br>
+
+## 🚀 Tecnologias
+
+<div>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+</div>
+
+## Redes Sociais
+
