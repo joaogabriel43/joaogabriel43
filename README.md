@@ -9,9 +9,9 @@
 
 ## About me
 
-Back-End Developer with **4+ years of professional experience** building and maintaining enterprise systems. I work daily with **C#, .NET, Angular, and SQL Server** at Intermidia, and build personal projects with **Java 17, Spring Boot 3, PostgreSQL, and AI integrations**.
+Back-End Developer with **4 years in tech**, 3 focused on software development. I work daily with **C#, .NET, Angular, and SQL Server** at Intermidia, and build personal projects using **Java 17, Spring Boot 3, and advanced back-end patterns** — event sourcing, CQRS, distributed messaging, and AI integrations.
 
-My final thesis project, [FortunAI](https://github.com/joaogabriel43/fortunai) · [Live demo ↗](https://fortunai-frontend.vercel.app/login), was an AI-powered financial assistant built with Spring Boot + Google Gemini API — graduated **with distinction**. Currently pursuing AWS Cloud Practitioner certification and aiming for international opportunities (Australia / remote 🌏).
+My thesis project [FortunAI](https://fortunai-frontend.vercel.app/login) was an AI-powered personal finance app built with Spring Boot + Google Gemini API, graduated **with distinction**. Currently pursuing AWS Cloud Practitioner certification and aiming for international opportunities (Australia / remote 🌏).
 
 ---
 
@@ -19,15 +19,17 @@ My final thesis project, [FortunAI](https://github.com/joaogabriel43/fortunai) �
 
 | Project | Description | Stack |
 |---|---|---|
-| **[FortunAI](https://github.com/joaogabriel43/fortunai)** · [Live demo ↗](https://fortunai-frontend.vercel.app/login) | AI-powered personal finance assistant using Google Gemini API. Full-stack, built as thesis project — approved with distinction. | Java 17 · Spring Boot 3 · Gemini API · React · PostgreSQL |
-| **[Order Management API](https://github.com/joaogabriel43/gerenciador-pedidos-api)** | RESTful API for order processing with clean architecture — layered structure, DTOs, repository pattern. | Java 17 · Spring Boot · PostgreSQL |
+| **[AuditVault](https://github.com/joaogabriel43/AuditVault)** | Enterprise-grade event-sourced audit system with CQRS, real-time SSE dashboard, Elasticsearch full-text search, AOP-based PII masking and async PDF export via Spring Batch. | Java 17 · Spring Boot 3.2 · PostgreSQL · Elasticsearch · Angular 17 · Docker |
+| **[ContractGuard](https://github.com/joaogabriel43/ContractGuard)** | Automated static analysis engine that detects breaking changes in OpenAPI contracts and fails CI pipelines before they reach production. Clean Architecture + DDD + Testcontainers. | Java 17 · Spring Boot 3.2 · PostgreSQL · Angular 17 · GitHub Actions · Railway |
+| **[FortunAI](https://fortunai-frontend.vercel.app/login)** · [demo ↗](https://fortunai-frontend.vercel.app/login) | AI-powered personal finance app with natural language chatbot, real-time portfolio tracking, Markowitz/Monte Carlo optimization, 464 automated tests and full CI/CD. TCC approved with distinction. | Java 17 · Spring Boot 3 · Gemini API · React · PostgreSQL · WebSocket |
+| **[NotifyFlow](https://github.com/joaogabriel43/notifyflow)** · [demo ↗](https://notifyflow-e47f.vercel.app) | Async multi-channel notification engine (EMAIL, SMS, PUSH) with Outbox Pattern, Circuit Breaker, Retry and per-tenant Rate Limiter via Resilience4j. | Java 17 · Spring Boot 3.2 · RabbitMQ · PostgreSQL · Resilience4j · Angular 17 |
 
 ---
 
 ## 🛠️ Tech stack
 
 **Daily work**
- 
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -35,15 +37,16 @@ My final thesis project, [FortunAI](https://github.com/joaogabriel43/fortunai) �
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Personal projects**
- 
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Currently learning**
- 
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
@@ -65,4 +68,3 @@ My final thesis project, [FortunAI](https://github.com/joaogabriel43/fortunai) �
 ---
 
 <sub>🇧🇷 Brazilian developer targeting remote/international positions · Available for relocation to Australia 🇦🇺</sub>
-    
